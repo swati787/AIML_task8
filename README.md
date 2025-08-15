@@ -1,1 +1,1 @@
-# AIML_task8
+This project applies K-Means clustering to segment customers based on their annual income and spending score from the Mall Customer Segmentation dataset. The workflow involves loading and preprocessing the dataset, standardizing the features, and using the Elbow Method to determine the optimal number of clusters. The model is evaluated using the Silhouette Score, and the resulting clusters are visualized both directly in feature space and via PCA projection for better interpretability. Tools used include Python, Pandas, NumPy, Scikit-learn, and Matplotlib.
